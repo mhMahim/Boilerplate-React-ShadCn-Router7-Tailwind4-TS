@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "naymur",
+    "origin"
+  ],
+  "parent": {
+    "main": null,
+    "naymur": "main",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "naymur",
+    "origin"
+  ]
+}
